@@ -1,5 +1,6 @@
 
 Author: Ridwan Opeyemi Bello
+
 Project Title/Scope: A BASh Based Pipeline for Variant Calling and Annotation
 
 Introduction 
