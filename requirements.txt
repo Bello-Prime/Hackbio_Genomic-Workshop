@@ -1,0 +1,10 @@
+Software and version
+FastQC  Version 0.11.9
+MultiQC  Version 1.13
+Trimmomatic  Version 0.39
+BWA  Version 0.7.17
+Samtool Version 1.15.1
+Bamtools Version 2.5.2
+BCF tools version 1.15.
+VarScan  Version 2.3.8
+snpEff Version 5.1
